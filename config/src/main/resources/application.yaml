@@ -20,4 +20,4 @@ eureka:
     region: default
     registry-fetch-interval-seconds: 5
     service-url:
-      defaultZone: http://discUser:discPassword@localhost:8092/eureka/
+      default-zone: http://discUser:discPassword@localhost:8092/eureka/
